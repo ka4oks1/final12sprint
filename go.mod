@@ -1,4 +1,4 @@
-module main
+module ka4oks1/final12sprint
 
 go 1.26.1
 
